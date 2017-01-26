@@ -1,0 +1,34 @@
+{
+    "name": "iot-extension-pack",
+    "displayName": "IoT Extension Pack",
+    "description": "Build IoT Solutions on top of Microsoft technology stack: Azure IoT and Windows IoT",
+    "version": "0.0.1",
+    "publisher": "formulahendry",
+    "icon": "images/logo.png",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "windows",
+        "azure",
+        "iot",
+        "device",
+        "cloud"
+    ],
+    "bugs": {
+        "url": "https://github.com/formulahendry/vscode-iot-extension-pack/issues",
+        "email": "formulahendry@gmail.com"
+    },
+    "homepage": "https://github.com/formulahendry/vscode-iot-extension-pack/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/formulahendry/vscode-iot-extension-pack.git"
+    },
+    "extensionDependencies": [
+        "formulahendry.azure-iot-toolkit",
+        "ms-iot.windowsiot"
+    ]
+}

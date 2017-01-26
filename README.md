@@ -1,0 +1,8 @@
+# IoT Extension Pack
+
+Build IoT Solutions on top of Microsoft technology stack: Azure IoT and Windows IoT. With the great products, leverage the great tools: [Azure IoT Toolkit](https://marketplace.visualstudio.com/items?itemName=formulahendry.azure-iot-toolkit) and [Windows IoT Core Extension](https://marketplace.visualstudio.com/items?itemName=ms-iot.windowsiot).
+
+| Extension | Status |
+| --------- | ------ |
+| Azure IoT Toolkit | [![Marketplace Version](https://vsmarketplacebadge.apphb.com/version-short/formulahendry.azure-iot-toolkit.svg)](https://marketplace.visualstudio.com/items?itemName=formulahendry.azure-iot-toolkit) [![Installs](https://vsmarketplacebadge.apphb.com/installs/formulahendry.azure-iot-toolkit.svg)](https://marketplace.visualstudio.com/items?itemName=formulahendry.azure-iot-toolkit) [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/formulahendry.azure-iot-toolkit.svg)](https://marketplace.visualstudio.com/items?itemName=formulahendry.azure-iot-toolkit) |
+| Windows IoT Core Extension | [![Marketplace Version](https://vsmarketplacebadge.apphb.com/version-short/ms-iot.windowsiot.svg)](https://marketplace.visualstudio.com/items?itemName=ms-iot.windowsiot) [![Installs](https://vsmarketplacebadge.apphb.com/installs/ms-iot.windowsiot.svg)](https://marketplace.visualstudio.com/items?itemName=ms-iot.windowsiot) [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/ms-iot.windowsiot.svg)](https://marketplace.visualstudio.com/items?itemName=ms-iot.windowsiot) |
