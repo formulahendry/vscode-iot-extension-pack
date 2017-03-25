@@ -1,7 +1,7 @@
 {
     "name": "iot-extension-pack",
     "displayName": "IoT Extension Pack",
-    "description": "Build IoT Solutions on top of Microsoft technology stack: Azure IoT and Windows IoT",
+    "description": "Build IoT Solutions on top of Community's favorite PlatformIO as well as Microsoft technology stack: Azure IoT and Windows IoT",
     "version": "0.0.1",
     "publisher": "formulahendry",
     "icon": "images/logo.png",
@@ -28,6 +28,7 @@
         "url": "https://github.com/formulahendry/vscode-iot-extension-pack.git"
     },
     "extensionDependencies": [
+        "formulahendry.platformio",
         "formulahendry.azure-iot-toolkit",
         "ms-iot.windowsiot"
     ]
