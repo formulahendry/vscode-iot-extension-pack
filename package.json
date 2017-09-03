@@ -1,15 +1,16 @@
 {
     "name": "iot-extension-pack",
     "displayName": "IoT Extension Pack",
-    "description": "Build IoT Solutions on top of Community's favorite PlatformIO as well as Microsoft technology stack: Azure IoT and Windows IoT",
-    "version": "0.0.2",
+    "description": "Build IoT Solutions on top of awesome technology stacks: Azure IoT, Windows IoT and PlatformIO",
+    "version": "0.0.3",
     "publisher": "formulahendry",
     "icon": "images/logo.png",
     "engines": {
         "vscode": "^1.5.0"
     },
     "categories": [
-        "Extension Packs"
+        "Extension Packs",
+        "Azure"
     ],
     "keywords": [
         "windows",
