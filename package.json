@@ -30,7 +30,7 @@
     },
     "extensionDependencies": [
         "formulahendry.platformio",
-        "formulahendry.azure-iot-toolkit",
+        "vsciot-vscode.azure-iot-toolkit",
         "ms-iot.windowsiot"
     ]
 }
