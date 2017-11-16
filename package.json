@@ -2,11 +2,11 @@
     "name": "iot-extension-pack",
     "displayName": "IoT Extension Pack",
     "description": "Build IoT Solutions on top of awesome technology stacks: Azure IoT, Windows IoT and PlatformIO",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "formulahendry",
     "icon": "images/logo.png",
     "engines": {
-        "vscode": "^1.5.0"
+        "vscode": "^1.17.0"
     },
     "categories": [
         "Extension Packs",
@@ -17,7 +17,7 @@
         "azure",
         "iot",
         "device",
-        "cloud"
+        "arduino"
     ],
     "bugs": {
         "url": "https://github.com/formulahendry/vscode-iot-extension-pack/issues",
@@ -30,6 +30,7 @@
     },
     "extensionDependencies": [
         "formulahendry.platformio",
+        "vsciot-vscode.azure-iot-edge",
         "vsciot-vscode.azure-iot-toolkit",
         "ms-iot.windowsiot"
     ]
