@@ -1,8 +1,8 @@
 {
     "name": "iot-extension-pack",
     "displayName": "IoT Extension Pack",
-    "description": "Build IoT Solutions on top of awesome technology stacks: Azure IoT, Windows IoT and PlatformIO",
-    "version": "0.0.4",
+    "description": "Build IoT Solutions on top of awesome technology stacks: Azure IoT, Node-RED and PlatformIO",
+    "version": "0.0.5",
     "publisher": "formulahendry",
     "icon": "images/logo.png",
     "engines": {
@@ -13,7 +13,7 @@
         "Azure"
     ],
     "keywords": [
-        "windows",
+        "Node-RED",
         "azure",
         "iot",
         "device",
@@ -32,6 +32,6 @@
         "formulahendry.platformio",
         "vsciot-vscode.azure-iot-edge",
         "vsciot-vscode.azure-iot-toolkit",
-        "ms-iot.windowsiot"
+        "formulahendry.vscode-node-red"
     ]
 }

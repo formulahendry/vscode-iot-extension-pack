@@ -1,3 +1,6 @@
+### 0.0.5 (2018-07-15)
+* Add [Node-RED](https://marketplace.visualstudio.com/items?itemName=formulahendry.vscode-node-red) extension
+
 ### 0.0.4 (2017-11-16)
 * Add [Azure IoT Edge](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-edge) extension
 
