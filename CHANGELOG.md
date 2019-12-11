@@ -1,3 +1,6 @@
+### 0.0.6 (2018-12-11)
+* Update logo
+
 ### 0.0.5 (2018-07-15)
 * Add [Node-RED](https://marketplace.visualstudio.com/items?itemName=formulahendry.vscode-node-red) extension
 

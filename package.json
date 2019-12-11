@@ -2,7 +2,7 @@
     "name": "iot-extension-pack",
     "displayName": "IoT Extension Pack",
     "description": "Build IoT Solutions on top of awesome technology stacks: Azure IoT, Node-RED and PlatformIO",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "publisher": "formulahendry",
     "icon": "images/logo.png",
     "engines": {
